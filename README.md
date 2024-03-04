@@ -29,7 +29,7 @@ Mentee assignment from IBM Advance AI @ Infinite Learning
 ### Simple Chatbot using Hugging Face Lab
  1. Installing Requirements
  2. Import our required tools from the transformers library
- 3. Choosing a model
+ 3. Choosing a [model](https://huggingface.co/models)
  4. Fetch the model and initialize a tokenizer
  5. Keeping track of conversation history
  6. Encoding the conversation history
