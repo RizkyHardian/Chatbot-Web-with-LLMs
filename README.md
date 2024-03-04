@@ -1,8 +1,8 @@
-# [Create ChatGPT-like chatbot website using free open source Large Language Models (LLM)](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX04ESEN+v1?authuser=0)
+# [Create ChatGPT-like Website with Open Source LLMs](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX04ESEN+v1?authuser=0)
 
 ![Logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX04ESEN/images/DALL%C2%B7E%202023-06-06%2009.38.20%20-%20a%20robot%20driving%20a%20convertible%20sports%20car%20towards%20the%20sunset%2C%20digital%20art.png)
 
-Course completion of Create ChatGPT-like chatbot website using free open source Large Language Models (LLM) from CognitiveClass.ai
+Course completion of Create ChatGPT-like Website with Open Source LLMs from CognitiveClass.ai
 
 
 **Name** : Rizky Hardian Nor
